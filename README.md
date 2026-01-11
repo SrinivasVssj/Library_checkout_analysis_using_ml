@@ -112,8 +112,6 @@ These insights enable libraries to proactively adjust acquisition and retention 
 │   ├── model_metrics_summary.csv
 │   ├── metrics_by_itemtype.csv
 │   └── trained_model.joblib
-├── Second_code_draft_with_time_series_split.py
-├── EXTENDED_TECHNICAL_SCRIPT.md
 ├── README.md
 ```
 
